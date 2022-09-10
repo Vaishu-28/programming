@@ -58,6 +58,7 @@ int main()
     pop();
     peek();
     push(4);
+    pop();
     peek();
     pop();
     return 0;
